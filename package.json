@@ -1,0 +1,19 @@
+{
+  "name": "spamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "cool-ascii-faces": "^1.3.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "inquirer": "^5.1.0",
+    "pg": "6.x"
+  }
+}
